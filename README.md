@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey There 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryapratap-18" alt="suryapratap-18" /> </p>
 
-<!--
-**Suryapratap-18/Suryapratap-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Pursuing B.tech CSE with AI&ML
 
-Here are some ideas to get you started:
+- 🌱 I’m currently working on C++ and learning DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me? 
+Contact on my socials
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suryapratap-18&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryapratap-18&layout=compact&theme=radical">
+
