@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/surya-pratap-singh-00a018405/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/surya.codex.in/">
+  <a href="https://www.instagram.com/surya.dev.io/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:codesurya.io@gmail.com">
